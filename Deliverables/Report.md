@@ -9,7 +9,7 @@
 
 ### EXERCISE 2
 ##### Modify the code to play several notes in a sequence from a song of your choosing
-###### The MicroPython code and a video demo of this is in deliverables -> exercise02
+###### The MicroPython code and a video demo of this is in deliverables -> exercise02. This is an original song.
 
 ### EXERCISE 3
 ##### Compute average, minimum, maximum response time for 10 flashes total & have the Pi Pico upload the response time data
